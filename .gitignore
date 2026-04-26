@@ -1,0 +1,6 @@
+*.exe
+*.dll
+Debug/
+lib/
+include/
+*.ini
